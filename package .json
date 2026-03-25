@@ -1,0 +1,16 @@
+{
+  "name": "shopbot-ia-gemini",
+  "version": "1.0.0",
+  "description": "Support client IA 24/7 pour boutique en ligne — propulsé par Google Gemini (gratuit)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev":   "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

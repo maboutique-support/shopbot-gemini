@@ -1,0 +1,8 @@
+# ============================================================
+#  Variables d'environnement — ShopBot IA (Gemini)
+#  1. Copiez ce fichier : copy env.example .env
+#  2. Collez votre clé Google AI Studio ci-dessous
+#  3. Ne mettez JAMAIS ce fichier sur GitHub !
+# ============================================================
+
+GEMINI_API_KEY=AIzaSy-METTEZ-VOTRE-CLE-ICI
